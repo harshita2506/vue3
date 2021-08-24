@@ -1,0 +1,24 @@
+#nav {
+    padding: 30px;
+  }
+  .head {
+    display: inline;
+  }
+  
+  #nav a {
+    font-weight: bold;
+    color: black;
+  }
+  input[type="text"],
+  select.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    /* -webkit-box-shadow: none; */
+   /* // box-shadow: none; */
+    border-radius: 0;
+  }
+  #nav a.router-link-exact-active {
+    color: #42b983;
+  }
+ 

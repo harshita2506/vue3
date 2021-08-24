@@ -1,0 +1,17 @@
+  .table td,
+  table th {
+    border: 0;
+  }
+  .con {
+    height: 900px;
+  }
+  .enableButton {
+   margin:5px;
+  }
+
+  .excelButton{
+    margin-left: 620px;
+  }
+  .downloadDiv{
+    margin-top:6px;
+  }
